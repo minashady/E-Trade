@@ -1,6 +1,7 @@
 # E-Trade Web Application
 
 ## Overview
+https://oms.egitdns.net/
 
 A robust and scalable web application built with **Angular**, **SignalR**, and **.NET Core**, designed for seamless electronic trading (E-trade). It supports real-time data feeds, advanced stock market analysis, and secure order placement, with separate experiences tailored for **brokers** and **individual clients**.
 

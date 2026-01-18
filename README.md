@@ -11,13 +11,13 @@ The application also features powerful modules for **portfolio management**, **c
 
 ## Features
 
-### 🚪 Dual Version Support
+###  Dual Version Support
 - **Broker View**: Comprehensive tools for managing multiple clients, bulk trading, credit control, and high-volume order management.
 - **Client View**: Streamlined interface tailored for individual traders, focusing on portfolio performance, quick trading, and analytics.
 ![image](https://github.com/user-attachments/assets/adbe7c52-d5fa-433b-b293-a86b13ff28fe)
 ---
 
-### 🪟 Docking System
+###  Docking System
 
 An advanced window docking system that allows users to:
 - Open multiple live data windows simultaneously.
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/bae83bcd-14d5-4060-90d7-411bbb87da49
 
 ---
 
-### 💾 Layout Management
+###  Layout Management
 
 - Save and load multiple custom window layouts.
 - Preserve state, size, position, and data context of all open windows.
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/2e5054b4-d19b-4554-980a-5bcd09fa05ec
 
 ---
 
-### ⚡ Flashing Cells (Live Data Highlighting)
+###  Flashing Cells (Live Data Highlighting)
  **As shown in the dokcing video**
 - Efficient SignalR backend hub to deliver real-time stock updates.
 - Handles updates for over **300 stocks**.
@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/2e5054b4-d19b-4554-980a-5bcd09fa05ec
 
 ---
 
-### 🔐 Authentication & Token Management
+###  Authentication & Token Management
 
 - Implements secure JWT-based authentication.
 - Supports **refresh token integration**:
@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/2e5054b4-d19b-4554-980a-5bcd09fa05ec
 
 ---
 
-### 📊 Stock Analysis Module
+###  Stock Analysis Module
 
 - Full stack support (Backend & Frontend).
 - Access to current and historical data for every stock.
@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/2e5054b4-d19b-4554-980a-5bcd09fa05ec
 
 ---
 
-### 🚀 IPO Module
+###  IPO Module
 
 - Full stack support (Backend & Frontend).
 - Visual representation of IPO offerings.
@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/2e5054b4-d19b-4554-980a-5bcd09fa05ec
 
 ---
 
-### 💼 Fund Management Module
+###  Fund Management Module
 
 - Full stack support (Backend & Frontend).
 - Handles various fund types (mutual, index, ETFs).
@@ -96,7 +96,7 @@ https://github.com/user-attachments/assets/5a6c0eb4-e8f7-4d3f-a1ac-9b3c0fc35a01
 
 ---
 
-### 📦 Bulk Order Processing
+###  Bulk Order Processing
 
 - Store and manage pending orders in a local **basket**.
 - Submit multiple orders simultaneously to the market.
@@ -108,7 +108,7 @@ https://github.com/user-attachments/assets/5a6c0eb4-e8f7-4d3f-a1ac-9b3c0fc35a01
 
 ---
 
-### 🛒 Dynamic Buy/Sell Ticket
+###  Dynamic Buy/Sell Ticket
 
 - Interactive trade ticket for buying and selling.
 - Dynamically calculates order fees based on:
@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/ec06a226-6c38-4194-ae98-4e1fdb37b33f
 
 ---
 
-### 🌐 Multi-language Support
+###  Multi-language Support
 
 - Supports **two languages** with dynamic localization.
 - Automatically adapts content based on user language settings.
@@ -129,7 +129,7 @@ https://github.com/user-attachments/assets/88b72cb3-720a-4f3a-8553-8ab667826d34
 
 ---
 
-### 🌙 Theme Support
+###  Theme Support
 
 - Toggle between **Light** and **Dark** themes.
 - Consistent and responsive styling for all components.
